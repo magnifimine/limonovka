@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "url": "https://raw.githubusercontent.com/magnifimine/limonovka/main/launcher_v2.zip",
-  "executable": "launcher.exe"
+  "version": "1.0.3",
+  "url": "https://raw.githubusercontent.com/magnifimine/limonovka/refs/heads/main/hello.txt",
+  "executable": "hello.txt"
 }
